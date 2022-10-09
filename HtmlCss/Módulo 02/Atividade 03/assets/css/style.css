@@ -83,6 +83,7 @@ header{
     font-weight: 900;
     background: rgba(0, 0, 0, 0.2);
     color: #f0f0f0;
+    text-shadow: 5px 1px rgb(0, 0, 0);
 }
 .text {     
     flex: 1 1 100vw;   
@@ -94,6 +95,7 @@ header{
     background: rgba(0, 0, 0, 0.5);
     margin-bottom: 100px;
     text-align: justify;
+    text-shadow: 5px 1px rgb(0, 0, 0);
 } 
 .text a{
     text-decoration: none;     
