@@ -20,7 +20,6 @@
     font-size: 75px;    
         
 }
-
 .retangulo{
     background: black;
     /* width: 80%;
@@ -30,7 +29,6 @@
     z-index: 1;
     
 }
-
 .botao{
     /* background: white; */
     padding: 5px 50px;
@@ -41,13 +39,11 @@
     text-decoration: none;
     border: 2px solid ;
 }
-
 .botao:hover{
     background: rgba(143,111,69,255);
     color: black;
     opacity: 0.7;
 }
-
 #imagemTopo img{
     margin: 0 auto;
     width: 100%;
@@ -104,12 +100,10 @@ header{
     text-decoration: none;    
     color: inherit;
 }
-
 #menu a:hover{
     border-bottom: 2px solid rgba(143,111,69,255);
     opacity: 0.8;
 }
-
 #openMenu, #classMenu{
     border: none;
     background: none;
@@ -132,7 +126,6 @@ main{
 p{
     padding-top: 20px;
 }
-
 .cards{      
     display: flex;
     justify-content: space-evenly;
@@ -140,7 +133,6 @@ p{
     margin: 100px;
        
 } 
-
 .card{
     width: 300px;
     height: 500px;    
@@ -164,7 +156,6 @@ p{
     padding: 5px 10px;
     text-decoration: justify;
 }
-
 .botao2{
     background: #40525a;
     padding: 5px 50px;
@@ -176,11 +167,9 @@ p{
     text-decoration: none;
     border: 2px solid ;
 }
-
 .botao2:hover{
     background: rgb(54, 54, 63);
 }
-
 footer{
     display: flex;
     flex: 1 1 100vw;
@@ -188,12 +177,10 @@ footer{
     background-color: #40525a;
     padding: 10px;
 }
-
 footer .direita{
     flex: 1 1 50vw;     
     width: 100%;    
 }
-
 footer .esquerda{
     flex: 1 1 50vw;  
     color: white;  
