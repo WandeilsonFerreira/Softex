@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import SayMyName from './components/SayMyName';
 
 function App() {
   return (
@@ -16,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <SayMyName nome="Wandeilson" />
+          Learn React
         </a>
       </header>
     </div>
